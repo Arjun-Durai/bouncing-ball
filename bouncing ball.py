@@ -18,9 +18,9 @@ circ_x,circ_y=450,500
 
 circx,circy=45,50
 
-speed_x,speed_y=1,1
+speed_x,speed_y=4,4
 
-speedx,speedy=2,2
+speedx,speedy=4.5,4.5
 
 
 radius=15
